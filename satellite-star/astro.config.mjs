@@ -37,31 +37,41 @@ export default defineConfig({
                  ],
              },
              {
-
+               
+                 label: 'Bigger Ore Stacks',
+                 translations: { it: 'Bigger Ore Stacks'},
+                 items: [
+                    { label: 'Showcase', translations: { it: 'Presentazione'}, slug: 'mod/hytale/bigger-ore-stacks' },
+                    { label: 'Changelog', translations: { it: 'Changelog'}, slug: 'mod/hytale/bigger-ore-stacks/changelog' },
+                    { label: 'Resources', translations: { it: 'Risorse'}, slug: 'mod/hytale/bigger-ore-stacks/resources' },
+                 ],
+             },
+             {
+               
                  label: 'Lalyan Cosmetic Core',
                  translations: { it: 'Lalyan Cosmetic Core'},
                  items: [
-                    { label: 'Showcase', translations: { it: 'Presentazione'}, slug: 'mod/lalyan-cosmetic-core' },
-                    { label: 'Changelog', translations: { it: 'Changelog'}, slug: 'mod/lalyan-cosmetic-core/changelog' },
-                    { label: 'Documentation', translations: { it: 'Documentazione'}, slug: 'mod/lalyan-cosmetic-core/documentation' },
-                    { label: 'Resources', translations: { it: 'Risorse'}, slug: 'mod/lalyan-cosmetic-core/resources' },
+                    { label: 'Showcase', translations: { it: 'Presentazione'}, slug: 'mod/hytale/lalyan-cosmetic-core' },
+                    { label: 'Changelog', translations: { it: 'Changelog'}, slug: 'mod/hytale/lalyan-cosmetic-core/changelog' },
+                    { label: 'Documentation', translations: { it: 'Documentazione'}, slug: 'mod/hytale/lalyan-cosmetic-core/documentation' },
+                    { label: 'Resources', translations: { it: 'Risorse'}, slug: 'mod/hytale/lalyan-cosmetic-core/resources' },
                  ],
              },
              {
-
+               
                  label: 'Ancient Golemancy',
                  translations: { it: 'Ancient Golemancy'},
                  items: [
-                    { label: 'Showcase', translations: { it: 'Presentazione'}, slug: 'mod/ancient-golemancy' },
-                    { label: 'Lore', translations: { it: 'Lore'}, slug: 'mod/ancient-golemancy/lore' },
-                    { label: 'Changelog', translations: { it: 'Changelog'}, slug: 'mod/ancient-golemancy/changelog' },
-                    { label: 'Guide', translations: { it: 'Guida'}, slug: 'mod/ancient-golemancy/guide' },
-                    { label: 'Documentation', translations: { it: 'Documentazione'}, slug: 'mod/ancient-golemancy/documentation' },
-                    { label: 'Resources', translations: { it: 'Risorse'}, slug: 'mod/ancient-golemancy/resources' },
+                    { label: 'Showcase', translations: { it: 'Presentazione'}, slug: 'mod/hytale/ancient-golemancy' },
+                    { label: 'Lore', translations: { it: 'Lore'}, slug: 'mod/hytale/ancient-golemancy/lore' },
+                    { label: 'Changelog', translations: { it: 'Changelog'}, slug: 'mod/hytale/ancient-golemancy/changelog' },
+                    { label: 'Guide', translations: { it: 'Guida'}, slug: 'mod/hytale/ancient-golemancy/guide' },
+                    { label: 'Documentation', translations: { it: 'Documentazione'}, slug: 'mod/hytale/ancient-golemancy/documentation' },
+                    { label: 'Resources', translations: { it: 'Risorse'}, slug: 'mod/hytale/ancient-golemancy/resources' },
                  ],
              },
              {
-
+               
                   label: 'Legal Notes',
                   translations: { it: 'Note Legali'},
                   items: [
